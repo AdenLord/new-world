@@ -8,6 +8,6 @@ pull code test
 
 change from mobile
 
-new updte to push branch to git hub!!
+update readme to push branch to git hub!!!!
 
 This repository is built step by step in the tutorial.
